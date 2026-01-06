@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Project specific
+processed_videos/
+temp_video*
+*.part
+*.ytdl
+
+# System
+Thumbs.db
+.DS_Store
