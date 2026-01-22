@@ -16,8 +16,8 @@ processed_videos/
 temp_video*
 *.part
 *.ytdl
+cookies*.txt
 
 # System
 Thumbs.db
 .DS_Store
-/raw
