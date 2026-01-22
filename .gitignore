@@ -21,3 +21,6 @@ cookies*.txt
 # System
 Thumbs.db
 .DS_Store
+
+# Data (large video files - recreatable from CSV)
+/raw
