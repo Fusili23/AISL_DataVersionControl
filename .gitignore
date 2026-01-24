@@ -24,3 +24,4 @@ Thumbs.db
 
 # Data (large video files - recreatable from CSV)
 /raw
+/raw

@@ -14,7 +14,7 @@ COOKIES_FILES = [
     r"cookies2.txt",
     r"cookies3.txt"
 ]
-START_ID = 103  # 103번부터 시작
+START_ID = 400  # 103번부터 시작
 
 # 경로 설정
 yt_dlp_exe = os.path.join(YT_DLP_DIR, "yt-dlp.exe")
